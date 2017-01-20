@@ -360,6 +360,18 @@ Welcome Style
   margin-bottom: 40px;
 }
 
+#Coming {
+  padding: 60px 0;
+  text-align: center;
+}
+#Coming h1 {
+  text-transform: uppercase;
+  color: black
+}
+#Coming h2{
+  color: white;
+}
+
     /* ==========================================================================
 Services Style
 ========================================================================== */
